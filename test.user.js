@@ -8,6 +8,7 @@
 // @match        http://escr.to/*
 // @match        https://etcscr.com/*
 // @grant        none
+// @updateUrl    https://github.com/epinapala/samplenft/raw/test/test.user.js
 // ==/UserScript==
 
 (function() {
